@@ -31,3 +31,6 @@
 
 - [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list/tree/main)  
   `http` `https`
+
+- [gfpcom/free-proxy-list](https://github.com/gfpcom/free-proxy-list/tree/main)
+  `http` `https` `socks4` `socks5` `vless` `vmess` `trojan` `shadowsocks` `hysteria` `hysteria2` `tuic` `wireguard`
