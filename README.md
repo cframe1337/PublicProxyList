@@ -34,3 +34,18 @@
 
 - [gfpcom/free-proxy-list](https://github.com/gfpcom/free-proxy-list/tree/main)
   > `http` `https` `socks4` `socks5` `vless` `vmess` `trojan` `shadowsocks` `hysteria` `hysteria2` `tuic` `wireguard`
+
+- [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List/tree/master)
+  > `http` `socks4` `socks5`
+
+- [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list/tree/main)
+  > `http` `https` `socks4` `socks5`
+
+- [Zaeem20/FREE_PROXIES_LIST](https://github.com/Zaeem20/FREE_PROXIES_LIST/tree/master)
+  > `http` `https` `socks4` `socks5`
+
+- [hookzof/socks5_list](https://github.com/hookzof/socks5_list/tree/master)
+  > `socks5` `mtproto`
+
+- [officialputuid/KangProxy](https://github.com/officialputuid/KangProxy/tree/KangProxy)
+  > `http` `https` `socks4` `socks5`
